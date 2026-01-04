@@ -1,4 +1,7 @@
 return {
+  -- default domain
+  default_domain = "WSL:Ubuntu",
+
   -- behaviours
   automatically_reload_config = true,
   check_for_updates = false,

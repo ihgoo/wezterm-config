@@ -60,9 +60,9 @@ return {
   wsl_domains = {
     {
       name = "WSL:Ubuntu",
-      distribution = "Ubuntu",
-      username = "kevin",
-      default_cwd = "/home/kevin",
+      distribution = "Ubuntu-22.04",
+      username = "ihgoo",
+      default_cwd = "/home/ihgoo",
       default_prog = { "fish" },
     },
   },
